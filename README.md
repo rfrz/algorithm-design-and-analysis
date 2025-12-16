@@ -1,6 +1,6 @@
 # 📂 Analisis dan Desain Algoritma (Algorithm Design & Analysis)
 
-Repository ini berisi kumpulan tugas praktikum (PR) untuk mata kuliah **Desain dan Analisis Algoritma**. Fokus utama dari kode-kode di sini adalah membandingkan performa antara algoritma **Brute Force** (pendekatan naif) dengan algoritma yang lebih optimal (seperti **Divide & Conquer**, **Greedy**, dll).
+Jadi, repository ini berisi kumpulan tugas praktikum (PR) saya untuk mata kuliah **Desain dan Analisis Algoritma**. Fokus utama dari kode-kode di sini adalah membandingkan performa antara algoritma **Brute Force** (pendekatan naif) dengan algoritma yang lebih optimal (seperti **Divide & Conquer**, **Greedy**, dll).
 
 Setiap tugas dilengkapi dengan pengujian waktu eksekusi (*execution time*) dan visualisasi grafik menggunakan Python.
 
